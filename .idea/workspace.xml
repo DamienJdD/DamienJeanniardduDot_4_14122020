@@ -4,7 +4,7 @@
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <workItem from="1608030373145" duration="2764000" />
       <workItem from="1608130676889" duration="2382000" />
       <workItem from="1608174767677" duration="126000" />
-      <workItem from="1608174919655" duration="1498000" />
+      <workItem from="1608174919655" duration="1812000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608176226356</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix: bug fix&#10;&#10;- Page contact, correction des liens de navigation">
+      <created>1608176494409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608176494409</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
     <MESSAGE value="fix: Correctifs SEO + accessibilité&#10;&#10;- Mise en place de balises sémantiques&#10;- Compression des images" />
     <MESSAGE value="fix: Correctifs SEO&#10;&#10;- Fichiers HTML et CSS minifiés" />
     <MESSAGE value="fix: Correctifs accessibilité&#10;&#10;- Couleurs des h1 et h2 corrigées pour rester visibles&#10;- Débordement page contact supprimé" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: Correctifs accessibilité&#10;&#10;- Couleurs des h1 et h2 corrigées pour rester visibles&#10;- Débordement page contact supprimé" />
+    <MESSAGE value="fix: bug fix&#10;&#10;- Page contact, correction des liens de navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: bug fix&#10;&#10;- Page contact, correction des liens de navigation" />
   </component>
 </project>
