@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -46,7 +45,9 @@
       <updated>1607984097707</updated>
       <workItem from="1607984098770" duration="3257000" />
       <workItem from="1608030373145" duration="2764000" />
-      <workItem from="1608130676889" duration="2089000" />
+      <workItem from="1608130676889" duration="2382000" />
+      <workItem from="1608174767677" duration="126000" />
+      <workItem from="1608174919655" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -69,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608132215284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: Correctifs SEO&#10;&#10;- Fichiers HTML et CSS minifiés">
+      <created>1608132871480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608132871480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +87,7 @@
     <MESSAGE value="feat: initial commit" />
     <MESSAGE value="fix: Améliorations SEO + accessibilité&#10;&#10;Correction des points (audit OOC) :&#10;- 2 : ajout de titres dans les head&#10;- 3 : ajout de balise de langue&#10;- 5 : lien de navigation plus explicite&#10;- 6 : les textes insérés dans des images ont été remplacés par du texte (h et p)&#10;- 13 / 23 : suppression de divs masquées de spam de keywords, stylées dans l'html&#10;- 14 : balise meta keywords : utilisation de mots clés plus adaptés" />
     <MESSAGE value="fix: Correctifs SEO + accessibilité&#10;&#10;- Mise en place de balises sémantiques&#10;- Compression des images" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: Correctifs SEO + accessibilité&#10;&#10;- Mise en place de balises sémantiques&#10;- Compression des images" />
+    <MESSAGE value="fix: Correctifs SEO&#10;&#10;- Fichiers HTML et CSS minifiés" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: Correctifs SEO&#10;&#10;- Fichiers HTML et CSS minifiés" />
   </component>
 </project>
