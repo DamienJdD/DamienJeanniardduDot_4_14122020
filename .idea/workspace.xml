@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <workItem from="1608030373145" duration="2764000" />
       <workItem from="1608130676889" duration="2382000" />
       <workItem from="1608174767677" duration="126000" />
-      <workItem from="1608174919655" duration="1812000" />
+      <workItem from="1608174919655" duration="2227000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608176494409</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix: style&#10;&#10;- Correction d'un problème d'alignement de la citation (index)">
+      <created>1608176812769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608176812769</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +110,7 @@
     <MESSAGE value="fix: Correctifs SEO&#10;&#10;- Fichiers HTML et CSS minifiés" />
     <MESSAGE value="fix: Correctifs accessibilité&#10;&#10;- Couleurs des h1 et h2 corrigées pour rester visibles&#10;- Débordement page contact supprimé" />
     <MESSAGE value="fix: bug fix&#10;&#10;- Page contact, correction des liens de navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: bug fix&#10;&#10;- Page contact, correction des liens de navigation" />
+    <MESSAGE value="fix: style&#10;&#10;- Correction d'un problème d'alignement de la citation (index)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: style&#10;&#10;- Correction d'un problème d'alignement de la citation (index)" />
   </component>
 </project>
