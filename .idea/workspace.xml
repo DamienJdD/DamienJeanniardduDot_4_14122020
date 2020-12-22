@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/et-line.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/et-line.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -52,6 +50,8 @@
       <workItem from="1608130676889" duration="2382000" />
       <workItem from="1608174767677" duration="126000" />
       <workItem from="1608174919655" duration="3882000" />
+      <workItem from="1608207495272" duration="2278000" />
+      <workItem from="1608661049457" duration="2420000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
