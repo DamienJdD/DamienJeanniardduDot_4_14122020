@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/et-line.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/et-line.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/img/3.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/img/4.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,8 @@
       <workItem from="1608174767677" duration="126000" />
       <workItem from="1608174919655" duration="3882000" />
       <workItem from="1608207495272" duration="2278000" />
-      <workItem from="1608661049457" duration="2420000" />
+      <workItem from="1608661049457" duration="2572000" />
+      <workItem from="1608670837384" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608178334678</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix: Corrections barre de navigation&#10;&#10;- Suppression des liens redondants&#10;- Suppression du style de liste sur&#10;la page contact">
+      <created>1608670799021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608670799021</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +156,7 @@
     <MESSAGE value="fix: bug fix&#10;&#10;bootstrap.css : correction des lignes 4376 et 5127 qui empêchent la validation CSS W3C" />
     <MESSAGE value="fix: bug fix&#10;&#10;style.css : correction des lignes 867, 873, 895, 896, 908, 909, qui empêchent la validation CSS W3C" />
     <MESSAGE value="fix: bug fix&#10;&#10;et-line.css : correction de la ligne 110 qui empêche la validation CSS W3C" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: bug fix&#10;&#10;et-line.css : correction de la ligne 110 qui empêche la validation CSS W3C" />
+    <MESSAGE value="fix: Corrections barre de navigation&#10;&#10;- Suppression des liens redondants&#10;- Suppression du style de liste sur&#10;la page contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: Corrections barre de navigation&#10;&#10;- Suppression des liens redondants&#10;- Suppression du style de liste sur&#10;la page contact" />
   </component>
 </project>
