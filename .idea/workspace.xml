@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <workItem from="1608661049457" duration="2572000" />
       <workItem from="1608670837384" duration="3013000" />
       <workItem from="1608720588720" duration="4178000" />
-      <workItem from="1608831462339" duration="833000" />
+      <workItem from="1608831462339" duration="1049000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -159,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608832162895</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fix(Accessibilité): &#10;&#10;- Correction des problèmes de taille de police sur l'index">
+      <created>1608832319911</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608832319911</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +186,8 @@
     <MESSAGE value="fix: Corrections barre de navigation&#10;&#10;- Suppression des liens redondants&#10;- Suppression du style de liste sur&#10;la page contact" />
     <MESSAGE value="fix: &#10;&#10;Images de l'index redimensionnées pour qu'elles soient uniformes" />
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de contraste sur l'index" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de contraste sur l'index" />
+    <MESSAGE value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de taille de police sur l'index" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de taille de police sur l'index" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

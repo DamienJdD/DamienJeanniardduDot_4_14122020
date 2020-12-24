@@ -958,6 +958,6 @@ h4 {
     }
 }
 
-.col-sm-4 ul li a {
+.col-sm-4 ul li a, .col-sm-12 p {
     color: #303030 !important;
 }
