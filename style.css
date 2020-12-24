@@ -220,7 +220,8 @@ h1 {
 }
 
 h2 {
-    color: #F3976C !important
+    color: #a94442; !important;
+    background-color: rgb(255 255 255 / 50%);
 }
 
 .navbar {
@@ -662,7 +663,8 @@ h4 {
 }
 
 .white {
-    color: #FFF !important
+    font-size: 16px;
+    color: #303030 !important;
 }
 
 .portfolio-thumb {
@@ -702,12 +704,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFF !important
+    color: #303030 !important
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956 !important;
-    color: #FFF !important
+    color: #303030 !important
 }
 
 .ltc-white {
@@ -958,4 +960,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center
     }
+}
+
+.col-sm-4 ul li a {
+    color: #303030 !important;
 }
