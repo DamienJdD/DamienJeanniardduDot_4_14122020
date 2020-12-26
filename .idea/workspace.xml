@@ -4,6 +4,8 @@
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <workItem from="1608831462339" duration="1701000" />
       <workItem from="1608986882499" duration="486000" />
       <workItem from="1608987395434" duration="1375000" />
-      <workItem from="1608999134465" duration="511000" />
+      <workItem from="1608999134465" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -197,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608998885862</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="fix(Erreurs W3C): &#10;&#10;Ajout d'aria-labels sur les boutons et les liens pour une meilleure accessibilité">
+      <created>1608999706955</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608999706955</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +234,8 @@
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Ajout d'un outline au focus pour sur les liens et les boutons, pour faciliter la navigation au clavier" />
     <MESSAGE value="fix: Ajout des fichiers CSS minifiés" />
     <MESSAGE value="fix(Erreurs W3C): &#10;&#10;Correction d'erreurs qui empêchaient la validation W3C CSS&#10;- bootsrap.css lignes 3105 et 5127&#10;- et-line.css ligne 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix(Erreurs W3C): &#10;&#10;Correction d'erreurs qui empêchaient la validation W3C CSS&#10;- bootsrap.css lignes 3105 et 5127&#10;- et-line.css ligne 11" />
+    <MESSAGE value="fix(Erreurs W3C): &#10;&#10;Ajout d'aria-labels sur les boutons et les liens pour une meilleure accessibilité" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(Erreurs W3C): &#10;&#10;Ajout d'aria-labels sur les boutons et les liens pour une meilleure accessibilité" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
