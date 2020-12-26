@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/et-line.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/et-line.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/et-line.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/et-line.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +64,7 @@
       <workItem from="1608720588720" duration="4178000" />
       <workItem from="1608831462339" duration="1701000" />
       <workItem from="1608986882499" duration="486000" />
+      <workItem from="1608987395434" duration="1001000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -180,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608987354653</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="fix: Ajout des fichiers CSS minifiés">
+      <created>1608987569727</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608987569727</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +216,8 @@
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de taille de police sur l'index" />
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de contraste sur la page de contact" />
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Ajout d'un outline au focus pour sur les liens et les boutons, pour faciliter la navigation au clavier" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix(Accessibilité): &#10;&#10;- Ajout d'un outline au focus pour sur les liens et les boutons, pour faciliter la navigation au clavier" />
+    <MESSAGE value="fix: Ajout des fichiers CSS minifiés" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: Ajout des fichiers CSS minifiés" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
