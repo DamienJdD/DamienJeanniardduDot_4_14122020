@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image-de-presentation.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/texture-paper.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +42,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -74,7 +66,7 @@
       <workItem from="1608831462339" duration="1701000" />
       <workItem from="1608986882499" duration="486000" />
       <workItem from="1608987395434" duration="1375000" />
-      <workItem from="1608999134465" duration="3343000" />
+      <workItem from="1608999134465" duration="3994000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -230,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609000783072</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="perf: Changement de format d'image&#10;&#10;Conversion des BMP les plus lourds en WEBP">
+      <created>1609002725637</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1609002725637</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
