@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1608670837384" duration="3013000" />
       <workItem from="1608720588720" duration="4178000" />
       <workItem from="1608831462339" duration="1701000" />
-      <workItem from="1608986882499" duration="383000" />
+      <workItem from="1608986882499" duration="486000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -174,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608832570169</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fix(Accessibilité): &#10;&#10;- Ajout d'un outline au focus pour sur les liens et les boutons, pour faciliter la navigation au clavier">
+      <created>1608987354653</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608987354653</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +203,8 @@
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de contraste sur l'index" />
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de taille de police sur l'index" />
     <MESSAGE value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de contraste sur la page de contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix(Accessibilité): &#10;&#10;- Correction des problèmes de contraste sur la page de contact" />
+    <MESSAGE value="fix(Accessibilité): &#10;&#10;- Ajout d'un outline au focus pour sur les liens et les boutons, pour faciliter la navigation au clavier" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(Accessibilité): &#10;&#10;- Ajout d'un outline au focus pour sur les liens et les boutons, pour faciliter la navigation au clavier" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
