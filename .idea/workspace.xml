@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +63,7 @@
       <workItem from="1608831462339" duration="1701000" />
       <workItem from="1608986882499" duration="486000" />
       <workItem from="1608987395434" duration="1375000" />
-      <workItem from="1608999134465" duration="3994000" />
+      <workItem from="1608999134465" duration="4675000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -229,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609002725637</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="perf: scripts JS async">
+      <created>1609003436013</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1609003436013</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +264,8 @@
     <MESSAGE value="fix(Erreurs W3C): &#10;&#10;Correction d'erreurs qui empêchaient la validation W3C CSS&#10;- bootsrap.css lignes 3105 et 5127&#10;- et-line.css ligne 11" />
     <MESSAGE value="fix(Erreurs W3C): &#10;&#10;Ajout d'aria-labels sur les boutons et les liens pour une meilleure accessibilité" />
     <MESSAGE value="perf: Changement de format d'image&#10;&#10;Conversion des BMP les plus lourds en WEBP" />
-    <option name="LAST_COMMIT_MESSAGE" value="perf: Changement de format d'image&#10;&#10;Conversion des BMP les plus lourds en WEBP" />
+    <MESSAGE value="perf: scripts JS async" />
+    <option name="LAST_COMMIT_MESSAGE" value="perf: scripts JS async" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
