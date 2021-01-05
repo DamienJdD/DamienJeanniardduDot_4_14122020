@@ -216,16 +216,16 @@ a:hover {
 
 h1 {
     font-size: 32px;
-    color: #F3976C !important
+    color: #F3976C !important;
 }
 
 .contact-h1 {
-    color: #333 !important
+    color: #333 !important;
 }
 
 h2 {
-    color: #a94442; !important;
-    background-color: rgb(255 255 255 / 50%);
+    color: #a94442 !important;
+    background-color: rgb(255,255,255,0.5);
 }
 
 .navbar {
