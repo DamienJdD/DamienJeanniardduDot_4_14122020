@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.min.css" afterDir="false" />
     </list>
@@ -78,7 +75,7 @@
       <workItem from="1609603158151" duration="1849000" />
       <workItem from="1609753628209" duration="20000" />
       <workItem from="1609755182838" duration="612000" />
-      <workItem from="1609859265250" duration="2021000" />
+      <workItem from="1609859265250" duration="2258000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -297,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609860484318</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="fix(Erreurs W3C): Corrections W3C&#10;&#10;Corrections d'erreurs qui empêchaient la validation W3C CSS :&#10;- bootstrap.css ligne 4377&#10;- style.css lignes 227 et 231">
+      <created>1609861620258</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1609861620258</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +311,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fix: Améliorations SEO + accessibilité&#10;&#10;Correction des points (audit OOC) :&#10;- 2 : ajout de titres dans les head&#10;- 3 : ajout de balise de langue&#10;- 5 : lien de navigation plus explicite&#10;- 6 : les textes insérés dans des images ont été remplacés par du texte (h et p)&#10;- 13 / 23 : suppression de divs masquées de spam de keywords, stylées dans l'html&#10;- 14 : balise meta keywords : utilisation de mots clés plus adaptés" />
     <MESSAGE value="fix: Correctifs SEO + accessibilité&#10;&#10;- Mise en place de balises sémantiques&#10;- Compression des images" />
     <MESSAGE value="fix: Correctifs SEO&#10;&#10;- Fichiers HTML et CSS minifiés" />
     <MESSAGE value="fix: Correctifs accessibilité&#10;&#10;- Couleurs des h1 et h2 corrigées pour rester visibles&#10;- Débordement page contact supprimé" />
@@ -332,7 +335,8 @@
     <MESSAGE value="perf(Accessibilité): Ajout de labels&#10;&#10;Page contact :&#10;- Ajout de label pour les input&#10;- Ajout d'aria-label pour&#10;les icones du footer" />
     <MESSAGE value="perf: Suppression de fichiers inutiles&#10;&#10;Suppression des anciens formats des images converties" />
     <MESSAGE value="fix(Erreurs W3C): Corrections W3C&#10;&#10;Corrections des erreurs qui empêchaient la validation W3C d'index.html&#10;(attributs href en trop lignes 202 et 215)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix(Erreurs W3C): Corrections W3C&#10;&#10;Corrections des erreurs qui empêchaient la validation W3C d'index.html&#10;(attributs href en trop lignes 202 et 215)" />
+    <MESSAGE value="fix(Erreurs W3C): Corrections W3C&#10;&#10;Corrections d'erreurs qui empêchaient la validation W3C CSS :&#10;- bootstrap.css ligne 4377&#10;- style.css lignes 227 et 231" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(Erreurs W3C): Corrections W3C&#10;&#10;Corrections d'erreurs qui empêchaient la validation W3C CSS :&#10;- bootstrap.css ligne 4377&#10;- style.css lignes 227 et 231" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
