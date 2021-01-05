@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="fix(Erreurs W3C):">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+    <list default="true" id="f7e8edd3-3e2d-4c68-834e-852ea1784a49" name="Default Changelist" comment="perf(Accessibilité): Ajout de labels&#10;&#10;Page contact :&#10;- Ajout de label pour les input&#10;- Ajout d'aria-label pour&#10;les icones du footer">
+      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/citation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/texture-paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title2.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +83,7 @@
       <workItem from="1609603158151" duration="1849000" />
       <workItem from="1609753628209" duration="20000" />
       <workItem from="1609755182838" duration="612000" />
-      <workItem from="1609859265250" duration="420000" />
+      <workItem from="1609859265250" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1607985295767</created>
@@ -273,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609062224828</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="perf(Accessibilité): Ajout de labels&#10;&#10;Page contact :&#10;- Ajout de label pour les input&#10;- Ajout d'aria-label pour&#10;les icones du footer">
+      <created>1609859780896</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1609859780896</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +321,8 @@
     <MESSAGE value="perf: Changement de format d'image&#10;&#10;Conversion des BMP les plus lourds en WEBP" />
     <MESSAGE value="perf: scripts JS async" />
     <MESSAGE value="fix: problème d'affichage d'image webp" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: problème d'affichage d'image webp" />
+    <MESSAGE value="perf(Accessibilité): Ajout de labels&#10;&#10;Page contact :&#10;- Ajout de label pour les input&#10;- Ajout d'aria-label pour&#10;les icones du footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="perf(Accessibilité): Ajout de labels&#10;&#10;Page contact :&#10;- Ajout de label pour les input&#10;- Ajout d'aria-label pour&#10;les icones du footer" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
